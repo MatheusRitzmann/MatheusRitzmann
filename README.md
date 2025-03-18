@@ -18,10 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![MatheusRitzmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRitzmann&show_icons=true&theme=merko)
----
-
 ## 🚀 Skills
 
 ### Languages & Technologies:
@@ -48,13 +44,20 @@
 
 ---
 
+## 📊 GitHub Stats
+![MatheusRitzmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRitzmann&show_icons=true&theme=merko)
+
+---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ritzmann-0a267321a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusritzmann@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ritzmann_matheus/profilecard/?igsh=MW16Y25obHZ3dXN4aA==)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusritzmann@gmail.com)
+
+### 📧 Email:
+📩 matheusritzmann@gmail.com  
+<button onclick="navigator.clipboard.writeText('matheusritzmann@gmail.com')">Copy Email</button>
 
 ---
 
 🚀 Always learning and growing in the world of web development! Feel free to connect! 😃
-
